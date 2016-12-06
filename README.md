@@ -9,6 +9,7 @@ This repository has places to eat for the following cities:
 * [Aurora, CO](/locations/Aurora)
 * [Boulder, CO](/locations/boulder)
 * [Chicago, IL](/locations/Chicago)
+* [Columbus, OH](locations/Columbus)
 * [East Windsor, NJ](/locations/East_Windsor)
 * [Hyderabad, Telangana](/locations/Hyderabad)
 * [Newport Beach, CA](/locations/Newport Beach)
@@ -16,7 +17,6 @@ This repository has places to eat for the following cities:
 * [Seattle, WA](/locations/Seattle)
 * [The Woodlands, TX](/locations/The Woodlands)
 * [Vernon Hills, IL](/locations/Vernon Hills)
-* [Columbus, OH](locations/Columbus)
 
 ## Contributing
 
